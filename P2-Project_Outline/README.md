@@ -7,9 +7,9 @@ Minimalist website application that allows a user to enter in a keyword and anal
 -API interface  
 -Data presentation options  
 ### Technologies  
-C#  
-.NET Core    
-TweetInvi  
+-C#  
+-.NET Core    
+-TweetInvi  
 ### What I'll Have to Learn  
 I will have to learn how to use TweetInvi to process search forms and list that data to the user. I will have to learn how to manipulate on demand data so the user is able to view that data efficiently.  
 ### Project Tracker  
