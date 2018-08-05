@@ -1,4 +1,4 @@
 # Project Setup
 
 ### Project Repository
-https://github.com/bdtra/TwitterAnalyzer
+https://github.com/bdtra/MediaSearcher
